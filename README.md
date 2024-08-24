@@ -3,3 +3,4 @@
 ### <li> [Test Suite](https://app.qase.io/project/G8?author=233)
 ### <li> [Test Cases](https://github.com/daryam1408/docs/blob/main/Test%20Cases%20-%20Darya%20Moseikova.pdf)
 ### <li> [Defect Reports](https://github.com/daryam1408/docs/blob/main/Defect%20reports%20-%20Darya%20Moseikova.pdf)
+### <li> [Test Run](https://github.com/daryam1408/docs/blob/main/Test%20Run%20-%20Darya%20Moseikova.pdf)
